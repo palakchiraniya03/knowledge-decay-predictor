@@ -44,5 +44,7 @@ It can be extended to:
 - Personalized learning platforms
 - Spaced repetition systems
 
+## Sample Output
 
+![Final Recommendations](screenshots/final_recommendations.png)
 
