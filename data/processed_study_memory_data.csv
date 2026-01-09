@@ -1,0 +1,11 @@
+topic,days_since_last_revision,revision_count,difficulty,last_score,memory_strength,revision_density,difficulty_impact,performance_gap
+Algebra,2,5,2,85,0.92,1.6666666666666667,0.15999999999999992,15
+Calculus,7,2,4,65,0.48,0.25,2.08,35
+Physics,5,3,3,70,0.6,0.5,1.2000000000000002,30
+Chemistry,10,1,4,55,0.3,0.09090909090909091,2.8,45
+Python,1,6,1,90,0.95,3.0,0.050000000000000044,10
+Data Structures,4,4,3,78,0.72,0.8,0.8400000000000001,22
+Machine Learning,8,2,4,62,0.45,0.2222222222222222,2.2,38
+Databases,6,3,2,75,0.68,0.42857142857142855,0.6399999999999999,25
+Operating Systems,9,1,4,58,0.35,0.1,2.6,42
+Statistics,3,4,2,80,0.78,1.0,0.43999999999999995,20
