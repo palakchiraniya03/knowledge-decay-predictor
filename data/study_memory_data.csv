@@ -1,0 +1,11 @@
+topic,days_since_last_revision,revision_count,difficulty,last_score,memory_strength
+Algebra,2,5,2,85,0.92
+Calculus,7,2,4,65,0.48
+Physics,5,3,3,70,0.60
+Chemistry,10,1,4,55,0.30
+Python,1,6,1,90,0.95
+Data Structures,4,4,3,78,0.72
+Machine Learning,8,2,4,62,0.45
+Databases,6,3,2,75,0.68
+Operating Systems,9,1,4,58,0.35
+Statistics,3,4,2,80,0.78
